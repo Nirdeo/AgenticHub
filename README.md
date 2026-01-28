@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/VictorDeDomenico/AgenticHub/releases/latest">
+  <a href="https://github.com/Nirdeo/AgenticHub/releases/latest">
     <img src="https://img.shields.io/badge/Download-v1.0.0-blue?style=for-the-badge" alt="Download">
   </a>
   <img src="https://img.shields.io/badge/platform-macOS%2014%2B-lightgrey?style=for-the-badge" alt="Platform">
@@ -21,7 +21,7 @@
 ## 📥 Installation
 
 ### Téléchargement Direct
-**[⬇️ Télécharger AgenticHub v1.0.0](https://github.com/VictorDeDomenico/AgenticHub/releases/download/v1.0.0/AgenticHub.dmg)**
+**[⬇️ Télécharger AgenticHub v1.0.0](https://github.com/Nirdeo/AgenticHub/releases/download/v1.0.0/AgenticHub.dmg)**
 
 1. Téléchargez `AgenticHub.dmg`
 2. Ouvrez le fichier DMG
@@ -79,7 +79,7 @@ Statistiques en temps réel (stars, forks) pour chaque serveur, récupérées vi
 
 ```bash
 # Cloner le repo
-git clone https://github.com/VictorDeDomenico/AgenticHub.git
+git clone https://github.com/Nirdeo/AgenticHub.git
 cd AgenticHub
 
 # Compiler l'application
