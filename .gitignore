@@ -1,0 +1,24 @@
+# Build artifacts
+.build/
+*.app/
+*.dmg
+
+# Xcode
+xcuserdata/
+*.xcworkspace/
+DerivedData/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs
+*.log
